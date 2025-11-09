@@ -1,5 +1,6 @@
 ## Тест-план
 
+|                  |               |
 | :----------------| :------------:|
 |  **Заказчик**    | “Школа 21”    |
 |    **Дата**      | 13.06.2025    |
@@ -16,7 +17,7 @@
 
 **2. Объект тестирования** 
 
-Сайт “Школы 21” https://21-school.ru/corporate-training/gruppovye-intensivy-dlia-rukovoditelei-i-komand
+Сайт “Школы 21” https://21-school.ru/corporate-training/gruppovye-intensivy-dlia-rukovoditelei-i-komand.
 Раздел “Корпоративное обучение руководителей и команды”
 
 **3. Объем тестирования** 
