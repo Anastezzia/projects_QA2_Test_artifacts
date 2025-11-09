@@ -1,6 +1,6 @@
 **1. Общее состояние страницы** 
 
-Сайт корректно открывается и доступен [https://21-school.ru/methodology] (https://21-school.ru/methodology)
+Сайт корректно открывается и доступен [https://21-school.ru/methodology](https://21-school.ru/methodology)
 
 Повторное открытие сайта выполняется без сбоев
 

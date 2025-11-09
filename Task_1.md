@@ -6,7 +6,7 @@
 
 **Предусловие:**
 
-1. адрес сайта [https://www.saucedemo.com/](https://www.saucedemo.com/).
+1. адрес сайта https://www.saucedemo.com/.
 
 2. валидные данные пользователя:
 
@@ -16,7 +16,7 @@
 
 **Шаги:**
 
-1.​ Открыть страницу регистрации [https://www.saucedemo.com/](https://www.saucedemo.com/).
+1.​ Открыть страницу регистрации https://www.saucedemo.com/.
 
 2.​ Ввести standard_user в поле “Username”.
 
@@ -27,18 +27,13 @@
 5.​ Дождаться загрузки новой страницы.
 
 **Ожидаемый результат:** пользователь успешно авторизован и перенаправлен на
-страницу списка товаров [https://www.saucedemo.com/inventory.html] (https://www.saucedemo.com/inventory.html).
+страницу списка товаров https://www.saucedemo.com/inventory.html.
 
 **Постусловия:**
 
--​ Сохранять сессию авторизации для последующих тестов, связанных с
-функционалом покупки товаров.
+-​ Сохранять сессию авторизации для последующих тестов, связанных с функционалом покупки товаров.
 
--​ Закрытие сессии авторизации перед следующим тестовым сценарием (при
-необходимости).
-
-
-
+-​ Закрытие сессии авторизации перед следующим тестовым сценарием (при необходимости).
 
 ## Тест-кейсы на негативную проверку
 
@@ -50,11 +45,11 @@
 
 **Предусловия**
 
-Открыта страница авторизации на сайте [https://www.saucedemo.com/](https://www.saucedemo.com/).
+Открыта страница авторизации на сайте https://www.saucedemo.com/.
 
 **Шаги**
 
-1. Открыть страницу авторизации [https://www.saucedemo.com/](https://www.saucedemo.com/).
+1. Открыть страницу авторизации https://www.saucedemo.com/.
 
 2. Заполнить поле "Username": ввести любое неправильное имя пользователя (например: "wrong_user").
 
@@ -80,11 +75,11 @@
 
 **Предусловия**
 
-Открыта страница авторизации на сайте [https://www.saucedemo.com/](https://www.saucedemo.com/).
+Открыта страница авторизации на сайте https://www.saucedemo.com/.
 
 **Шаги**
 
-1. Открыть страницу авторизации [https://www.saucedemo.com/](https://www.saucedemo.com/).
+1. Открыть страницу авторизации https://www.saucedemo.com/.
 
 2. Заполнить поле "Username": ввести любое неправильное имя пользователя (например: "wrong_user").
 
@@ -110,11 +105,11 @@
 
 **Предусловия**
 
-Открыта страница авторизации на сайте [https://www.saucedemo.com/](https://www.saucedemo.com/).
+Открыта страница авторизации на сайте https://www.saucedemo.com/.
 
 **Шаги**
 
-1. Открыть страницу авторизации [https://www.saucedemo.com/](https://www.saucedemo.com/).
+1. Открыть страницу авторизации https://www.saucedemo.com/.
 
 2. Заполнить поле "Username": ввести валидное имя пользователя "standard_user".
 
@@ -140,10 +135,10 @@
 
 **Предусловия**
 
-Открыта страница входа на сайте [https://www.saucedemo.com/](https://www.saucedemo.com/).
+Открыта страница входа на сайте https://www.saucedemo.com/.
 
 **Шаги**
-1. Открыть страницу авторизации [https://www.saucedemo.com/](https://www.saucedemo.com/).
+1. Открыть страницу авторизации https://www.saucedemo.com/.
 
 2. Не вводить ничего в поля "Username" и "Password".
 
@@ -166,11 +161,11 @@
 
 **Предусловия**
 
-Открыта страница входа на сайте [https://www.saucedemo.com/](https://www.saucedemo.com/).
+Открыта страница входа на сайте https://www.saucedemo.com/.
 
 **Шаги**
 
-1. Открыть страницу авторизации [https://www.saucedemo.com/](https://www.saucedemo.com/).
+1. Открыть страницу авторизации https://www.saucedemo.com/.
 
 2. Не вводить ничего в поле "Username".
 
@@ -195,11 +190,11 @@
 
 **Предусловия**
 
-Открыта страница входа на сайте [https://www.saucedemo.com/](https://www.saucedemo.com/).
+Открыта страница входа на сайте https://www.saucedemo.com/.
 
 **Шаги**
 
-1. Открыть страницу авторизации [https://www.saucedemo.com/](https://www.saucedemo.com/).
+1. Открыть страницу авторизации https://www.saucedemo.com/.
 
 2. Ввести корректный логин в поле "Username".
 
@@ -224,11 +219,11 @@
 
 **Предусловия**
 
-Открыта страница входа на сайте [https://www.saucedemo.com/](https://www.saucedemo.com/).
+Открыта страница входа на сайте https://www.saucedemo.com/.
 
 **Шаги**
 
-1. Открыть страницу авторизации [https://www.saucedemo.com/](https://www.saucedemo.com/).
+1. Открыть страницу авторизации https://www.saucedemo.com/.
 
 2. Ввести специальные символы (например, "%$#@*&^%") в поле "Username".
 
@@ -254,10 +249,11 @@
 
 **Предусловия**
 
-Открыта страница входа на сайте [https://www.saucedemo.com/](https://www.saucedemo.com/).
+Открыта страница входа на сайте https://www.saucedemo.com/.
+
 **Шаги**
 
-1. Открыть страницу авторизации [https://www.saucedemo.com/](https://www.saucedemo.com/).
+1. Открыть страницу авторизации https://www.saucedemo.com/.
 
 2. Ввести валидный логин.
 
@@ -283,11 +279,11 @@
 
 **Предусловия**
 
-Открыта страница входа на сайте [https://www.saucedemo.com/](https://www.saucedemo.com/).
+Открыта страница входа на сайте https://www.saucedemo.com/.
 
 **Шаги**
 
-1. Открыть страницу авторизации [https://www.saucedemo.com/](https://www.saucedemo.com/).
+1. Открыть страницу авторизации https://www.saucedemo.com/.
 
 2. Ввести специальные символы (например, "%$#@*&^%") в поле "Username".
 
@@ -313,11 +309,11 @@
 
 **Предусловия**
 
-Открыта страница входа на сайте [https://www.saucedemo.com/](https://www.saucedemo.com/).
+Открыта страница входа на сайте https://www.saucedemo.com/.
 
 **Шаги**
 
-1. Открыть страницу авторизации [https://www.saucedemo.com/](https://www.saucedemo.com/).
+1. Открыть страницу авторизации https://www.saucedemo.com/.
 
 2. Ввести большое количество символов (24 и >) в поле "Username".
 
@@ -342,11 +338,11 @@
 
 **Предусловия**
 
-Открыта страница входа на сайте [https://www.saucedemo.com/](https://www.saucedemo.com/).
+Открыта страница входа на сайте https://www.saucedemo.com/.
 
 **Шаги**
 
-1. Открыть страницу авторизации [https://www.saucedemo.com/](https://www.saucedemo.com/).
+1. Открыть страницу авторизации https://www.saucedemo.com/.
 
 2. Ввести большое количество символов (24 и >) в поле "Username".
 
@@ -371,11 +367,11 @@
 
 **Предусловия**
 
-Открыта страница входа на сайте [https://www.saucedemo.com/](https://www.saucedemo.com/).
+Открыта страница входа на сайте https://www.saucedemo.com/.
 
 **Шаги**
 
-1. Открыть страницу авторизации [https://www.saucedemo.com/](https://www.saucedemo.com/).
+1. Открыть страницу авторизации https://www.saucedemo.com/.
 
 2. Ввести валидный логин.
 
